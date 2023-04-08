@@ -7,14 +7,12 @@
 
 import SwiftUI
 
-struct Intro: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
+// MARK: Intro Model And Sample Intro's
+
+struct Intro: Identifiable {
+    var id: String = UUID().uuidString
+    var imageName: String
+    var title: String
 }
 
-struct Intro_Previews: PreviewProvider {
-    static var previews: some View {
-        Intro()
-    }
-}
+var 
