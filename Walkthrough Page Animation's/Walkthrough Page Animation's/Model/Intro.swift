@@ -15,4 +15,9 @@ struct Intro: Identifiable {
     var title: String
 }
 
-var 
+var intros: [Intro] = [
+
+    .init(imageName: ""', title: ""),
+    .init(imageName: ""', title: ""),
+    .init(imageName: ""', title: ""),
+]
