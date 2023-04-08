@@ -1,9 +1,14 @@
-//  
-//  ContentView.swift
+//  */
+//
+//  Project: Walkthrough Page Animation's
+//  File: ContentView.swift
 //  Walkthrough Page Animation's
+//  Created by: Elaidzha Shchukin
+//  Date: 08.04.2023
 //
-//  Created by Elaidzha Shchukin on 08.04.2023.
+//  Status | Decoreted
 //
+//  /*
 
 import SwiftUI
 
