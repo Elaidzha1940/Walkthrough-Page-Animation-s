@@ -56,6 +56,7 @@
 		E429E4CB29E19D8A00BEDDC3 /* Walkthrough Page Animation's */ = {
 			isa = PBXGroup;
 			children = (
+				E429E4E129E1A11800BEDDC3 /* Fonts */,
 				E429E4DC29E19EB600BEDDC3 /* View */,
 				E429E4DB29E19EAD00BEDDC3 /* Model */,
 				E429E4CC29E19D8A00BEDDC3 /* Walkthrough_Page_Animation_sApp.swift */,
@@ -89,6 +90,13 @@
 				E429E4DF29E1A0AB00BEDDC3 /* IntroView.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		E429E4E129E1A11800BEDDC3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
